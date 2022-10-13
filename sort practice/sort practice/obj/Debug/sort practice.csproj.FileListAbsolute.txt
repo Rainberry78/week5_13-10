@@ -1,0 +1,7 @@
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\bin\Debug\sort practice.exe.config
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\bin\Debug\sort practice.exe
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\bin\Debug\sort practice.pdb
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\obj\Debug\sort practice.csproj.AssemblyReference.cache
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\obj\Debug\sort practice.csproj.CoreCompileInputs.cache
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\obj\Debug\sort practice.exe
+C:\Users\tomyr\Documents\DEVINCI\A3\Etranger\C#\sort practice\sort practice\obj\Debug\sort practice.pdb
